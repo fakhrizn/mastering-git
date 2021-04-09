@@ -4,4 +4,3 @@
 3. Revert the PR when there is a bug in develop branch
     1. Fix it in the feature branch and create new PR to develop branch
 4. Use Jira prefix for each commit messages
-
